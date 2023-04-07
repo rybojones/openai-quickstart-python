@@ -24,7 +24,7 @@ This is an example pet name generator app used in the OpenAI API [quickstart tut
 4. Create a new conda environment:
 
    ```bash
-   $ conda create -n openai python pip
+   $ conda create -n openai python=3.10 pip
    $ conda checkout openai
    ```
 
